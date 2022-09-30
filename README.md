@@ -1,9 +1,11 @@
 # About
 Get desktop notifications for the gazette. This app uses Python 3 and TKinter.messagebox along with a webscraper to display notifications on your desktop. It displays notifications when it detects a change in the gazette or when your computer wakes up from a shutdown or hibernation.
 
-![image](https://user-images.githubusercontent.com/114666925/193297566-af45b0c5-dcef-4e59-89a1-a375c12295b3.png)
+![image](https://user-images.githubusercontent.com/114666925/193298885-aaa760d7-ec17-481b-aa22-91aabe654bae.png)
 
 
+
+  
 # Windows Installation
 Download and run the installshield installer (coming soon).
 
